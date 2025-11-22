@@ -50,10 +50,10 @@ LibraryManagementSystem/<br>
 ---
 
 ## Future Enhancements
-Prevent duplicate Book ISBNs or User IDs.<br>
-Implement partial search for books and users.<br>
-Add overdue tracking and fine management.<br>
-Integrate a GUI interface using a library like Qt or SFML.<br>
+- Prevent duplicate Book ISBNs or User IDs.<br>
+- Implement partial search for books and users.<br>
+- Add overdue tracking and fine management.<br>
+- Integrate a GUI interface using a library like Qt or SFML.<br>
 
 ---
 

@@ -39,8 +39,8 @@ A **C++ console-based application** to manage books, users, and transactions in 
 ---
 
 ## Folder Structure
-LibraryManagementSystem/
-│
+LibraryManagementSystem/<br>
+│<br>
 ├─ library_management_system.cpp    # Main C++ program <br>
 ├─ books.txt                        # Persistent storage for books<br>
 ├─ users.txt                        # Persistent storage for users<br>
@@ -58,8 +58,6 @@ Integrate a GUI interface using a library like Qt or SFML.<br>
 ---
 
 ## Project Contributors
-Hafiz Muhammad Tayyab Zia<br>
-Mursaleen Ahmad<br>
-Eesha Siddqui<br>
-   ```bash
-   git clone <repository-url>
+- Hafiz Muhammad Tayyab Zia<br>
+- Mursaleen Ahmad<br>
+- Eesha Siddqui<br>
